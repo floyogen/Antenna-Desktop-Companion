@@ -1,4 +1,4 @@
-Antenna — Local AI Desktop Companion (V1.0.0)
+Antenna: Local AI Desktop Companion (V1.0.0)
 Meet Antenna (Ania Meyyar), a hand-drawn desktop companion from Sector 6 of Talloon City in the MPheno universe, created by FLOYOGEN.
 
 She lives on your Windows desktop, where you can chat with her, hear her speak, and ask her to open applications on your PC. Antenna works with locally running AI models, so your conversations don't need to go through a cloud-based AI service.
